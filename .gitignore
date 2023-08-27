@@ -1,0 +1,12 @@
+__pycache__/
+    *.pyc
+
+Include/
+
+Lib/
+
+Scripts/
+
+pyvenv.cfg
+
+migrations/
